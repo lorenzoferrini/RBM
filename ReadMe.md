@@ -2,7 +2,11 @@
 RBM implementation in Python for MNIST images classification.\
 A Restricted Boltzmann Machines is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.\
 \
-![RBM structure](./images/rbm_struct.png)
+
+<p align="center"> 
+<img src="./images/rbm_struct.png">
+</p>
+
 \
 \
 RBM are a subset of Boltzmann machines in which connections are allowed only between visible and hidden neurons and there are no connection between neurons within a group.\
